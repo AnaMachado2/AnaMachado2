@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, eu sou a Ana Júlia! 👋
 
-<!--
-**AnaMachado2/AnaMachado2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+
+*   🎓 Cursando o 5º semestre de **Análise e Desenvolvimento de Sistemas** no Unieuro.
+*   💼 Atuando como **Estagiária de Tecnologia** no setor público (SEMOB-DF).
+*   🎯 Buscando evolução constante em lógica, desenvolvimento web/backend e gerenciamento de dados.
+
+---
+
+### 🛠️ Tecnologias e Aprendizados
+
+#### **Linguagens e Frameworks (Iniciando)**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+#### **Banco de Dados & SQL**
+*   **Conceitos de Banco de Dados:** Domínio dos fundamentos básicos de modelagem e estrutura de dados.
+*   **Consultas SQL:** Experiência prática na construção de consultas intermediárias para manipulação e extração de dados.
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=anajulia-am&show_icons=true&theme=visual_studio&count_private=true" alt="Estatísticas do GitHub" height="150" />
+</p>
+
+---
+
+### 📬 Vamos nos conectar?
+
+*   💼 **LinkedIn:** [Ana Júlia Almeida Machado](https://www.linkedin.com/in/ana-j%C3%BAlia-almeida-machado-24b34a2b2/)
+*   📧 **E-mail:** [anajuliaalmeidamachado2@gmail.com](mailto:anajuliaalmeidamachado2@gmail.com)
