@@ -1,4 +1,4 @@
-# Olá, eu sou a Ana Júlia! 👋
+# °.°.Ana Júlia Machado.°.°.
 
 
 ---
