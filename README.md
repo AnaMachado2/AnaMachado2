@@ -26,14 +26,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anajulia-am&show_icons=true&theme=visual_studio&count_private=true" alt="Estatísticas do GitHub" height="150" />
-</p>
-
----
-
 ### 📬 Vamos nos conectar?
 
 *   💼 **LinkedIn:** [Ana Júlia Almeida Machado](https://www.linkedin.com/in/ana-j%C3%BAlia-almeida-machado-24b34a2b2/)
